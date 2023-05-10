@@ -1,5 +1,5 @@
 #! /bin/bash
-git clone git@github.com:iatiqul/codefellas.git
+git clone https://github.com/iatiqul/codefellas.git
 git switch sheshir
 touch node.txt
 git add .
